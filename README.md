@@ -1,6 +1,7 @@
-# java
+# JAVA I Course
 
 ### MY JAVA COURSEWORK REPO
+##### This repo contains all of my labs from my Java I coursework.
 
 ###### list of labs
 
